@@ -4,12 +4,6 @@ Priority: optional
 Maintainer: Joe MacDonald <joe_macdonald@mentor.com>
 Build-Depends: debhelper,
                dh-python,
-               python-all,
-               python-mock,
-               python-pytest,
-               python-setuptools,
-               python-twisted,
-               python-txaio,
                python3-all,
                python3-mock,
                python3-pytest,
